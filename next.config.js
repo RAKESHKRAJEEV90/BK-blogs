@@ -7,7 +7,7 @@ const nextConfig = {
 
     compiler:{
         removeConsole:true,
-        output:'export',
+        
     }
 };
 
